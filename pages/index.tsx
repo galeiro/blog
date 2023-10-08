@@ -3,12 +3,12 @@ import { allPosts, allProjects, Post, Project } from ".contentlayer/generated";
 import { pick } from "@contentlayer/client";
 
 import Link from "components/Link";
-import Section from "components/Section";
+// import Section from "components/Section";
 import PostList from "components/postlist";
 
-import BitrefillGraphic from "components/projects/BitrefillGraphic";
-import TrailRoutesGraphic from "components/projects/TrailRoutesGraphic";
-import TracklibGraphic from "components/projects/TracklibGraphic";
+// import BitrefillGraphic from "components/projects/BitrefillGraphic";
+// import TrailRoutesGraphic from "components/projects/TrailRoutesGraphic";
+// import TracklibGraphic from "components/projects/TracklibGraphic";
 
 type HomeProps = {
   posts: Post[];

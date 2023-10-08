@@ -9,9 +9,9 @@ import HitCounter from "components/hitcounter";
 import PostList from "components/postlist";
 import Link from "components/Link";
 import Image from "next/image";
-import NewsletterInput from "components/NewsletterInput";
-import Tags from "components/tags";
-import LikeButton from "components/likebutton";
+// import NewsletterInput from "components/NewsletterInput";
+// import Tags from "components/tags";
+// import LikeButton from "components/likebutton";
 import MDXComponents from "components/MDXComponents";
 import Parallax from "components/blog/parallax";
 
