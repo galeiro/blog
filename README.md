@@ -1,23 +1,24 @@
-# Nextra Docs Template 
+# Galeiro's Docs
 
-This is a template for creating documentation with [Nextra](https://nextra.site).
+Tempat untuk berlatih menulis.
 
-[**Live Demo →**](https://nextra-docs-template.vercel.app)
+## Deployment on Local
 
-[![](.github/screenshot.png)](https://nextra-docs-template.vercel.app)
+1. Klon repositori ini.
+2. Jalankan perintah ini.
+```
+yarn install
+```
+```
+yarn dev
+```
 
-## Quick Start
+## Deployment on Docker
 
-Click the button to clone this repository and deploy it on Vercel:
+1. Klon repositori ini.
+2. Jalankan perintah ini.
+```
+docker compose up -d
+```
 
-[![](https://vercel.com/button)](https://vercel.com/new/clone?s=https%3A%2F%2Fgithub.com%2Fshuding%2Fnextra-docs-template&showOptionalTeamCreation=false)
-
-## Local Development
-
-First, run `pnpm i` to install the dependencies.
-
-Then, run `pnpm dev` to start the development server and visit localhost:3000.
-
-## License
-
-This project is licensed under the MIT License.
+Buka peramban, http://localhost:3000
