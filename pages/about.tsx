@@ -7,12 +7,12 @@ import Workplaces from "components/Workplaces";
 // import Gallery from "components/Gallery";
 import { ActivityType } from "components/Activity";
 
-import bitrefillLogo from "public/projects/bitrefill-logo.png";
-import tracklibLogo from "public/projects/tracklib-logo.png";
-import styleroomLogo from "public/projects/styleroom-logo.png";
-import trailroutesLogo from "public/projects/trailroutes-logo.png";
-import notionLogo from "public/projects/notion-logo.png";
-import strengthLogo from "public/projects/strength-logo.png";
+// import bitrefillLogo from "public/projects/bitrefill-logo.png";
+// import tracklibLogo from "public/projects/tracklib-logo.png";
+// import styleroomLogo from "public/projects/styleroom-logo.png";
+// import trailroutesLogo from "public/projects/trailroutes-logo.png";
+// import notionLogo from "public/projects/notion-logo.png";
+// import strengthLogo from "public/projects/strength-logo.png";
 import avatar from "public/avatar.png";
 
 // import { getActivities, getActivity } from "lib/strava";
@@ -23,56 +23,56 @@ export const connectLinks = [
   { label: "GitHub", href: "https://github.com/samuelkraft" },
 ];
 
-const workplaces = [
-  {
-    title: "Design Engineer",
-    description: "Bitrefill",
-    time: "2021 - Now",
-    imageSrc: bitrefillLogo,
-    link: "https://bitrefill.com",
-  },
-  {
-    title: "Frontend Developer",
-    description: "Tracklib",
-    time: "2016 - 2021",
-    imageSrc: tracklibLogo,
-    link: "https://tracklib.com",
-  },
-  {
-    title: "Design Engineer",
-    description: "Styleroom",
-    time: "2013 - 2016",
-    imageSrc: styleroomLogo,
-    link: "https://styleroom.se/app",
-  },
-];
+// const workplaces = [
+//   {
+//     title: "Design Engineer",
+//     description: "Bitrefill",
+//     time: "2021 - Now",
+//     imageSrc: bitrefillLogo,
+//     link: "https://bitrefill.com",
+//   },
+//   {
+//     title: "Frontend Developer",
+//     description: "Tracklib",
+//     time: "2016 - 2021",
+//     imageSrc: tracklibLogo,
+//     link: "https://tracklib.com",
+//   },
+//   {
+//     title: "Design Engineer",
+//     description: "Styleroom",
+//     time: "2013 - 2016",
+//     imageSrc: styleroomLogo,
+//     link: "https://styleroom.se/app",
+//   },
+// ];
 
-const sideProjects = [
-  {
-    title: "Trail Routes",
-    description: "Mapping platform built with react, mapbox, swiftUI",
-    imageSrc: trailroutesLogo,
-    link: "https://github.com/samuelkraft/routes",
-  },
-  {
-    title: "notion-blog-nextjs",
-    description: "Next.js starter repo with a blog powered by Notion",
-    imageSrc: notionLogo,
-    link: "https://github.com/samuelkraft/notion-blog-nextjs",
-  },
-  {
-    title: "Strength",
-    description: "iOS & WatchOS strength tracking app",
-    imageSrc: strengthLogo,
-    link: "https://samuelkraft.github.io/strength/",
-  },
-  {
-    title: "samuelkraft-next",
-    description: "The website you are looking at!",
-    imageSrc: avatar,
-    link: "https://github.com/samuelkraft/samuelkraft-next",
-  },
-];
+// const sideProjects = [
+//   {
+//     title: "Trail Routes",
+//     description: "Mapping platform built with react, mapbox, swiftUI",
+//     imageSrc: trailroutesLogo,
+//     link: "https://github.com/samuelkraft/routes",
+//   },
+//   {
+//     title: "notion-blog-nextjs",
+//     description: "Next.js starter repo with a blog powered by Notion",
+//     imageSrc: notionLogo,
+//     link: "https://github.com/samuelkraft/notion-blog-nextjs",
+//   },
+//   {
+//     title: "Strength",
+//     description: "iOS & WatchOS strength tracking app",
+//     imageSrc: strengthLogo,
+//     link: "https://samuelkraft.github.io/strength/",
+//   },
+//   {
+//     title: "samuelkraft-next",
+//     description: "The website you are looking at!",
+//     imageSrc: avatar,
+//     link: "https://github.com/samuelkraft/samuelkraft-next",
+//   },
+// ];
 
 const seoTitle = "Galeiro's Blog";
 const seoDesc =

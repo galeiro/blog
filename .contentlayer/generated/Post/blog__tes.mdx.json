@@ -1,0 +1,25 @@
+{
+  "title": "Aku Suka Kamu",
+  "summary": "How to access Strava data from a Next.js app",
+  "publishedAt": "2023-10-08",
+  "tags": [
+    "Strava",
+    "Next.js"
+  ],
+  "body": {
+    "raw": "\n## 1. Create a Strava Application\n",
+    "code": "var Component=(()=>{var x=Object.create;var o=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var j=Object.getOwnPropertyNames;var d=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var h=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),l=(t,e)=>{for(var a in e)o(t,a,{get:e[a],enumerable:!0})},c=(t,e,a,s)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let n of j(e))!f.call(t,n)&&n!==a&&o(t,n,{get:()=>e[n],enumerable:!(s=p(e,n))||s.enumerable});return t};var _=(t,e,a)=>(a=t!=null?x(d(t)):{},c(e||!t||!t.__esModule?o(a,\"default\",{value:t,enumerable:!0}):a,t)),S=t=>c(o({},\"__esModule\",{value:!0}),t);var u=h((M,i)=>{i.exports=_jsx_runtime});var A={};l(A,{default:()=>v,frontmatter:()=>b});var r=_(u()),b={title:\"Aku Suka Kamu\",publishedAt:\"2023-10-08\",summary:\"How to access Strava data from a Next.js app\",tags:[\"Strava\",\"Next.js\"]};function m(t){let e=Object.assign({h2:\"h2\"},t.components);return(0,r.jsx)(e.h2,{children:\"1. Create a Strava Application\"})}function g(t={}){let{wrapper:e}=t.components||{};return e?(0,r.jsx)(e,Object.assign({},t,{children:(0,r.jsx)(m,t)})):m(t)}var v=g;return S(A);})();\n;return Component;"
+  },
+  "_id": "blog/tes.mdx",
+  "_raw": {
+    "sourceFilePath": "blog/tes.mdx",
+    "sourceFileName": "tes.mdx",
+    "sourceFileDir": "blog",
+    "contentType": "mdx",
+    "flattenedPath": "blog/tes"
+  },
+  "type": "Post",
+  "slug": "tes",
+  "image": "/blog/tes/image.png",
+  "og": "/blog/tes/og.jpg"
+}
