@@ -1,21 +1,26 @@
-import { NextRequest, NextResponse } from "next/server";
-const isPasswordEnabled = !!process.env.PASSWORD_PROTECT
-export async function middleware(req: NextRequest){
-    const isLoggedIn = req.cookies.has('login');
-    const isPathPasswordProtect = req.nextUrl.pathname.startsWith("/password-protect")
-    if(isPasswordEnabled && !isLoggedIn && !isPathPasswordProtect){
-        return NextResponse.redirect(new URL("/password-protect", req.url))
-    }
-    return NextResponse.next()
-}
+import { NextRequest, NextResponse } from 'next/server'
+
 export const config = {
-    matcher: [
-      /*
-       * Match all request paths except for the ones starting with:
-       * - api (API routes)
-       * - _next/static (static files)
-       * - favicon.ico (favicon file)
-       */
-      '/((?!api|_next/static|favicon.ico|under-development.svg).*)',
-    ],
+  matcher: ['/', '/index'],
+}
+
+const password = process.env.PASSWORD;
+const username = process.env.USERNAME;
+
+
+export function middleware(req: NextRequest) {
+  const basicAuth = req.headers.get('authorization')
+  const url = req.nextUrl
+
+  if (basicAuth) {
+    const authValue = basicAuth.split(' ')[1]
+    const [user, pwd] = atob(authValue).split(':')
+
+    if (user === username && pwd === password) {
+      return NextResponse.next()
+    }
   }
+  url.pathname = '/api/auth'
+
+  return NextResponse.rewrite(url)
+}
