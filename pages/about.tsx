@@ -18,9 +18,9 @@ import avatar from "public/avatar.png";
 // import { getActivities, getActivity } from "lib/strava";
 
 export const connectLinks = [
-  { label: "Email", href: "mailto:samuelkraft@me.com" },
-  { label: "Twitter", href: "https://twitter.com/samuelkraft" },
-  { label: "GitHub", href: "https://github.com/samuelkraft" },
+  // { label: "Email", href: "mailto:samuelkraft@me.com" },
+  // { label: "Twitter", href: "https://twitter.com/samuelkraft" },
+  { label: "GitHub", href: "https://github.com/galeiro/blog" },
 ];
 
 // const workplaces = [
@@ -108,28 +108,22 @@ export default function About({
             src={avatar}
             width={48}
             height={48}
-            alt="avatar of Samuel Kraft"
+            alt="avatar of galeiro's docs"
           />
         </div>
         <div
           className="flex flex-col gap-16 animate-in sm:animate-none md:gap-24"
           style={{ "--index": 2 } as React.CSSProperties}
         >
-          <Section heading="About me" headingAlignment="right">
+          <Section heading="Tentang saya" headingAlignment="right">
             <div className="flex flex-col gap-6">
               <p>
-                <em className="font-semibold">Hi there!</em>&nbsp; I’m Samuel, a
-                designer/frontend developer hybrid that loves to build great
-                products with delightful interfaces.
+                <em className="font-semibold">Halo!</em>&nbsp;
               </p>
               <p>
-                Currently working at{" "}
-                <Link href="https://bitrefill.com">Bitrefill</Link>, making
-                living on crypto possible. Before that I worked at music startup{" "}
-                <Link href="https://tracklib.com">Tracklib</Link>, the record
-                store for sampling.
+                Orang biasa saja yang sedang berlatih menulis disini.
               </p>
-              <p>
+              {/* <p>
                 I love working in the realm between design and code. Some things
                 that makes me excited are CSS, Design Systems, Animation,
                 crafting excellent component apis and making interfaces feel fun
@@ -142,10 +136,10 @@ export default function About({
               <p>
                 Outside of work I’m obsessed with endurance sports and
                 travelling with my family.
-              </p>
+              </p> */}
             </div>
           </Section>
-          <Section heading="Connect" headingAlignment="right">
+          <Section heading="Kode sumber" headingAlignment="right">
             <ul className="flex gap-6 animated-list">
               {connectLinks.map((link) => (
                 <li className="transition-opacity" key={link.label}>

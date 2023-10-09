@@ -21,12 +21,12 @@ export default function Home({ posts, projects }: HomeProps) {
       <div className="flex flex-col gap-20 md:gap-28">
         <div>
           <h1 className="animate-in">Selamat datang</h1>
-          {/* <p
+          <p
             className="text-secondary animate-in"
             style={{ "--index": 1 } as React.CSSProperties}
           >
-            I design & build interfaces
-          </p> */}
+            di Galeiro's Blog
+          </p>
         </div>
         <div
           className="flex flex-col gap-4 animate-in"

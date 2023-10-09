@@ -1,14 +1,13 @@
 {
-  "title": "Aku Suka Kamu",
-  "summary": "How to access Strava data from a Next.js app",
+  "title": "Aku sedang tes",
+  "summary": "Blog berjudul tes",
   "publishedAt": "2023-10-08",
   "tags": [
-    "Strava",
-    "Next.js"
+    "Blog"
   ],
   "body": {
-    "raw": "\n## 1. Create a Strava Application\n",
-    "code": "var Component=(()=>{var x=Object.create;var o=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var j=Object.getOwnPropertyNames;var d=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var h=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),l=(t,e)=>{for(var a in e)o(t,a,{get:e[a],enumerable:!0})},c=(t,e,a,s)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let n of j(e))!f.call(t,n)&&n!==a&&o(t,n,{get:()=>e[n],enumerable:!(s=p(e,n))||s.enumerable});return t};var _=(t,e,a)=>(a=t!=null?x(d(t)):{},c(e||!t||!t.__esModule?o(a,\"default\",{value:t,enumerable:!0}):a,t)),S=t=>c(o({},\"__esModule\",{value:!0}),t);var u=h((M,i)=>{i.exports=_jsx_runtime});var A={};l(A,{default:()=>v,frontmatter:()=>b});var r=_(u()),b={title:\"Aku Suka Kamu\",publishedAt:\"2023-10-08\",summary:\"How to access Strava data from a Next.js app\",tags:[\"Strava\",\"Next.js\"]};function m(t){let e=Object.assign({h2:\"h2\"},t.components);return(0,r.jsx)(e.h2,{children:\"1. Create a Strava Application\"})}function g(t={}){let{wrapper:e}=t.components||{};return e?(0,r.jsx)(e,Object.assign({},t,{children:(0,r.jsx)(m,t)})):m(t)}var v=g;return S(A);})();\n;return Component;"
+    "raw": "\n## Tes\n\n\n",
+    "code": "var Component=(()=>{var l=Object.create;var s=Object.defineProperty;var d=Object.getOwnPropertyDescriptor;var x=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,h=Object.prototype.hasOwnProperty;var j=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),f=(t,e)=>{for(var n in e)s(t,n,{get:e[n],enumerable:!0})},u=(t,e,n,c)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let o of x(e))!h.call(t,o)&&o!==n&&s(t,o,{get:()=>e[o],enumerable:!(c=d(e,o))||c.enumerable});return t};var _=(t,e,n)=>(n=t!=null?l(g(t)):{},u(e||!t||!t.__esModule?s(n,\"default\",{value:t,enumerable:!0}):n,t)),b=t=>u(s({},\"__esModule\",{value:!0}),t);var i=j((C,a)=>{a.exports=_jsx_runtime});var A={};f(A,{default:()=>y,frontmatter:()=>p});var r=_(i()),p={title:\"Aku sedang tes\",publishedAt:\"2023-10-08\",summary:\"Blog berjudul tes\",tags:[\"Blog\"]};function m(t){let e=Object.assign({h2:\"h2\"},t.components);return(0,r.jsx)(e.h2,{children:\"Tes\"})}function M(t={}){let{wrapper:e}=t.components||{};return e?(0,r.jsx)(e,Object.assign({},t,{children:(0,r.jsx)(m,t)})):m(t)}var y=M;return b(A);})();\n;return Component;"
   },
   "_id": "blog/tes.mdx",
   "_raw": {
