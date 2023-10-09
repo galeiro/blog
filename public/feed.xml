@@ -4,7 +4,7 @@
         <description><![CDATA[Blog]]></description>
         <link>https://blog.musex.my.id</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Oct 2023 16:49:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Oct 2023 04:07:21 GMT</lastBuildDate>
         <atom:link href="https://blog.musex.my.id/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Animated music bars with CSS]]></title>
