@@ -79,7 +79,7 @@ const seoDesc =
   "A designer/frontend developer hybrid that loves to build great products with delightful interfaces.";
 
 export default function About({
-  lastActivity,
+  // lastActivity,
 }) {
   return (
     <>
