@@ -1,26 +1,26 @@
 [
   {
-    "title": "Aku sedang tes",
-    "summary": "Blog berjudul tes",
-    "publishedAt": "2023-10-08",
+    "title": "Ketertarikan dalam menulis",
+    "summary": "Ketertarikan dalam menulis",
+    "publishedAt": "2023-10-09",
     "tags": [
       "Blog"
     ],
     "body": {
-      "raw": "\n## Tes\n\n\n",
-      "code": "var Component=(()=>{var l=Object.create;var s=Object.defineProperty;var d=Object.getOwnPropertyDescriptor;var x=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,h=Object.prototype.hasOwnProperty;var j=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),f=(t,e)=>{for(var n in e)s(t,n,{get:e[n],enumerable:!0})},u=(t,e,n,c)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let o of x(e))!h.call(t,o)&&o!==n&&s(t,o,{get:()=>e[o],enumerable:!(c=d(e,o))||c.enumerable});return t};var _=(t,e,n)=>(n=t!=null?l(g(t)):{},u(e||!t||!t.__esModule?s(n,\"default\",{value:t,enumerable:!0}):n,t)),b=t=>u(s({},\"__esModule\",{value:!0}),t);var i=j((C,a)=>{a.exports=_jsx_runtime});var A={};f(A,{default:()=>y,frontmatter:()=>p});var r=_(i()),p={title:\"Aku sedang tes\",publishedAt:\"2023-10-08\",summary:\"Blog berjudul tes\",tags:[\"Blog\"]};function m(t){let e=Object.assign({h2:\"h2\"},t.components);return(0,r.jsx)(e.h2,{children:\"Tes\"})}function M(t={}){let{wrapper:e}=t.components||{};return e?(0,r.jsx)(e,Object.assign({},t,{children:(0,r.jsx)(m,t)})):m(t)}var y=M;return b(A);})();\n;return Component;"
+      "raw": "\nMalam ini --ya, saya menulis ini pukul 22:25 WIB, adalah awal saya akhirnya memberanikan \nuntuk mulai menulis. Tentu awal ini cukup membuat saya bingung, \"Apa yang mau saya tuliskan?\". \nAkhirnya saya memutuskan untuk menceritakan saja, awal ketertarikan saya pada menulis.\n\n## Ivan Lanin\n\nSaya pernah ikut pelatihan berbahasa di [Narabahasa](https://narabahasa.id/) selama dua hari. \nIvan Lanin, adalah pemerhati bahasa indonesia yang baik --menurut saya, sekaligus narasumber \npelatihan tersebut. Dia juga akrab dipanggil dengan panggilan 'Uda'.\n\nCukup bosan awalnya untuk mengikuti pelatihan tersebut, sampai saya pikir ini pelatihan biasa \nsaja. _Toh_, kita semua sudah bisa berbahasa indonesia. Namun saya salah besar, menggunakan \nbahasa indonesia yang baik dan benar ternyata seru juga. Saya cukup menikmati tulisan-tulisan \nUda di [Medium](https://ivanlanin.medium.com/), yang konsisten Uda upload setiap hari.\n\nSaya ingat betul 'bahasa' yang sering diucapkan Uda, \"_Saya suka bahasa baku, namun tidak \nkaku_\". Ucapan Uda bak sihir bagi saya, hingga akhirnya saya mulai suka berbahasa dengan baik \ndan benar.\n\n## Suci Amelia\n\nSaya sedang mengambil pendidikan S1 di [Institut Teknologi Tanggerang Selatan](https://itts.ac.id) \n(_ITTS_), kebetulan mau tidak mau saya dapat mata kuliah bahasa. Awalnya saya berpikiran yang sama, \nuntuk apa pelajaran bahasa ada di dalam mata kuliah jurusan teknologi, menyebalkan.\n\nNamun, bak _dejavu_, saya akhirnya memulai menulis juga karena ini.\n\nUda dan Ibu Suci Amelia ternyata memiliki persamaan, yaitu: tahu kelemahan saya. Mereka bilang, \nkelemahan orang yang memiliki wicara publik --padanan dari:_public speaking_-- bagus, adalah \nsulit untuk menuangkan ke dalam tulisan.\n\nSehingga, saya memulai tulisan ini untuk menutup kelemahan saya.\n\n",
+      "code": "var Component=(()=>{var d=Object.create;var t=Object.defineProperty;var k=Object.getOwnPropertyDescriptor;var p=Object.getOwnPropertyNames;var b=Object.getPrototypeOf,g=Object.prototype.hasOwnProperty;var c=(i,a)=>()=>(a||i((a={exports:{}}).exports,a),a.exports),y=(i,a)=>{for(var e in a)t(i,e,{get:a[e],enumerable:!0})},l=(i,a,e,u)=>{if(a&&typeof a==\"object\"||typeof a==\"function\")for(let s of p(a))!g.call(i,s)&&s!==e&&t(i,s,{get:()=>a[s],enumerable:!(u=k(a,s))||u.enumerable});return i};var o=(i,a,e)=>(e=i!=null?d(b(i)):{},l(a||!i||!i.__esModule?t(e,\"default\",{value:i,enumerable:!0}):e,i)),j=i=>l(t({},\"__esModule\",{value:!0}),i);var m=c((_,r)=>{r.exports=_jsx_runtime});var w={};y(w,{default:()=>f,frontmatter:()=>S});var n=o(m()),S={title:\"Ketertarikan dalam menulis\",publishedAt:\"2023-10-09\",summary:\"Ketertarikan dalam menulis\",tags:[\"Blog\"]};function h(i){let a=Object.assign({p:\"p\",h2:\"h2\",a:\"a\",em:\"em\"},i.components);return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(a.p,{children:`Malam ini --ya, saya menulis ini pukul 22:25 WIB, adalah awal saya akhirnya memberanikan\nuntuk mulai menulis. Tentu awal ini cukup membuat saya bingung, \"Apa yang mau saya tuliskan?\".\nAkhirnya saya memutuskan untuk menceritakan saja, awal ketertarikan saya pada menulis.`}),`\n`,(0,n.jsx)(a.h2,{children:\"Ivan Lanin\"}),`\n`,(0,n.jsxs)(a.p,{children:[\"Saya pernah ikut pelatihan berbahasa di \",(0,n.jsx)(a.a,{href:\"https://narabahasa.id/\",children:\"Narabahasa\"}),` selama dua hari.\nIvan Lanin, adalah pemerhati bahasa indonesia yang baik --menurut saya, sekaligus narasumber\npelatihan tersebut. Dia juga akrab dipanggil dengan panggilan 'Uda'.`]}),`\n`,(0,n.jsxs)(a.p,{children:[`Cukup bosan awalnya untuk mengikuti pelatihan tersebut, sampai saya pikir ini pelatihan biasa\nsaja. `,(0,n.jsx)(a.em,{children:\"Toh\"}),`, kita semua sudah bisa berbahasa indonesia. Namun saya salah besar, menggunakan\nbahasa indonesia yang baik dan benar ternyata seru juga. Saya cukup menikmati tulisan-tulisan\nUda di `,(0,n.jsx)(a.a,{href:\"https://ivanlanin.medium.com/\",children:\"Medium\"}),\", yang konsisten Uda upload setiap hari.\"]}),`\n`,(0,n.jsxs)(a.p,{children:[`Saya ingat betul 'bahasa' yang sering diucapkan Uda, \"`,(0,n.jsx)(a.em,{children:`Saya suka bahasa baku, namun tidak\nkaku`}),`\". Ucapan Uda bak sihir bagi saya, hingga akhirnya saya mulai suka berbahasa dengan baik\ndan benar.`]}),`\n`,(0,n.jsx)(a.h2,{children:\"Suci Amelia\"}),`\n`,(0,n.jsxs)(a.p,{children:[\"Saya sedang mengambil pendidikan S1 di \",(0,n.jsx)(a.a,{href:\"https://itts.ac.id\",children:\"Institut Teknologi Tanggerang Selatan\"}),`\n(`,(0,n.jsx)(a.em,{children:\"ITTS\"}),`), kebetulan mau tidak mau saya dapat mata kuliah bahasa. Awalnya saya berpikiran yang sama,\nuntuk apa pelajaran bahasa ada di dalam mata kuliah jurusan teknologi, menyebalkan.`]}),`\n`,(0,n.jsxs)(a.p,{children:[\"Namun, bak \",(0,n.jsx)(a.em,{children:\"dejavu\"}),\", saya akhirnya memulai menulis juga karena ini.\"]}),`\n`,(0,n.jsxs)(a.p,{children:[`Uda dan Ibu Suci Amelia ternyata memiliki persamaan, yaitu: tahu kelemahan saya. Mereka bilang,\nkelemahan orang yang memiliki wicara publik --padanan dari:`,(0,n.jsx)(a.em,{children:\"public speaking\"}),`-- bagus, adalah\nsulit untuk menuangkan ke dalam tulisan.`]}),`\n`,(0,n.jsx)(a.p,{children:\"Sehingga, saya memulai tulisan ini untuk menutup kelemahan saya.\"})]})}function x(i={}){let{wrapper:a}=i.components||{};return a?(0,n.jsx)(a,Object.assign({},i,{children:(0,n.jsx)(h,i)})):h(i)}var f=x;return j(w);})();\n;return Component;"
     },
-    "_id": "blog/tes.mdx",
+    "_id": "blog/ketertarikan-menulis.mdx",
     "_raw": {
-      "sourceFilePath": "blog/tes.mdx",
-      "sourceFileName": "tes.mdx",
+      "sourceFilePath": "blog/ketertarikan-menulis.mdx",
+      "sourceFileName": "ketertarikan-menulis.mdx",
       "sourceFileDir": "blog",
       "contentType": "mdx",
-      "flattenedPath": "blog/tes"
+      "flattenedPath": "blog/ketertarikan-menulis"
     },
     "type": "Post",
-    "slug": "tes",
-    "image": "/blog/tes/image.png",
-    "og": "/blog/tes/og.jpg"
+    "slug": "ketertarikan-menulis",
+    "image": "/blog/ketertarikan-menulis/image.png",
+    "og": "/blog/ketertarikan-menulis/og.jpg"
   }
 ]
