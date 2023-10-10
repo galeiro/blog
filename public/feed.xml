@@ -4,14 +4,14 @@
         <description><![CDATA[Blog]]></description>
         <link>https://blog.musex.my.id</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Oct 2023 16:01:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2023 04:14:22 GMT</lastBuildDate>
         <atom:link href="https://blog.musex.my.id/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Aku sedang tes]]></title>
-            <description><![CDATA[Blog berjudul tes]]></description>
-            <link>https://blog.musex.my.id/blog/tes</link>
-            <guid isPermaLink="true">https://blog.musex.my.id/blog/tes</guid>
-            <pubDate>Sun, 08 Oct 2023 00:00:00 GMT</pubDate>
+            <title><![CDATA[Ketertarikan dalam menulis]]></title>
+            <description><![CDATA[Ketertarikan dalam menulis]]></description>
+            <link>https://blog.musex.my.id/blog/ketertarikan-menulis</link>
+            <guid isPermaLink="true">https://blog.musex.my.id/blog/ketertarikan-menulis</guid>
+            <pubDate>Mon, 09 Oct 2023 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
