@@ -4,8 +4,10 @@ export const config = {
   matcher: ['/', '/index'],
 }
 
-const password = process.env.PASSWORD;
-const username = process.env.USERNAME;
+const password1 = process.env.PASSWORD1;
+const username1 = process.env.USERNAME1;
+const password2 = process.env.PASSWORD2;
+const username2 = process.env.USERNAME2;
 
 
 export function middleware(req: NextRequest) {
@@ -16,7 +18,7 @@ export function middleware(req: NextRequest) {
     const authValue = basicAuth.split(' ')[1]
     const [user, pwd] = atob(authValue).split(':')
 
-    if (user === username && pwd === password) {
+    if (user === username1 || username2 && pwd === password1 || password2) {
       return NextResponse.next()
     }
   }
