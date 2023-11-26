@@ -1,0 +1,24 @@
+{
+  "title": "Kosong",
+  "summary": "Kosong",
+  "publishedAt": "2023-11-02",
+  "tags": [
+    "Blog"
+  ],
+  "body": {
+    "raw": "Ya. Kosong.",
+    "code": "var Component=(()=>{var g=Object.create;var s=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var x=Object.getOwnPropertyNames;var l=Object.getPrototypeOf,d=Object.prototype.hasOwnProperty;var f=(t,n)=>()=>(n||t((n={exports:{}}).exports,n),n.exports),j=(t,n)=>{for(var o in n)s(t,o,{get:n[o],enumerable:!0})},a=(t,n,o,c)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let e of x(n))!d.call(t,e)&&e!==o&&s(t,e,{get:()=>n[e],enumerable:!(c=p(n,e))||c.enumerable});return t};var _=(t,n,o)=>(o=t!=null?g(l(t)):{},a(n||!t||!t.__esModule?s(o,\"default\",{value:t,enumerable:!0}):o,t)),b=t=>a(s({},\"__esModule\",{value:!0}),t);var m=f((D,i)=>{i.exports=_jsx_runtime});var y={};j(y,{default:()=>M,frontmatter:()=>h});var r=_(m()),h={title:\"Kosong\",publishedAt:\"2023-11-02\",summary:\"Kosong\",tags:[\"Blog\"]};function u(t){let n=Object.assign({p:\"p\"},t.components);return(0,r.jsx)(n.p,{children:\"Ya. Kosong.\"})}function K(t={}){let{wrapper:n}=t.components||{};return n?(0,r.jsx)(n,Object.assign({},t,{children:(0,r.jsx)(u,t)})):u(t)}var M=K;return b(y);})();\n;return Component;"
+  },
+  "_id": "blog/kosong.mdx",
+  "_raw": {
+    "sourceFilePath": "blog/kosong.mdx",
+    "sourceFileName": "kosong.mdx",
+    "sourceFileDir": "blog",
+    "contentType": "mdx",
+    "flattenedPath": "blog/kosong"
+  },
+  "type": "Post",
+  "slug": "kosong",
+  "image": "/blog/kosong/image.png",
+  "og": "/blog/kosong/og.jpg"
+}

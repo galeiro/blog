@@ -1,0 +1,24 @@
+{
+  "title": "Evaluasi Kinerja Bisnis",
+  "summary": "Evaluasi Kinerja Bisnis",
+  "publishedAt": "2023-10-25",
+  "tags": [
+    "Blog"
+  ],
+  "body": {
+    "raw": "\nMembuat saya disiplin untuk membuat tulisan dua kali seminggu, seperti nya agak sulit. \nSaya mungkin terlalu sering mengadopsi, bahwa inspirasi hanya datang ketika momen-momen \ntertentu. Padahal, sepertinya pekan lalu saya mendapatkan beberapa peluru untuk menulis. \nNamun hanya menjadi pikiran yang lewat dari telinga kanan ke telinga kiri.\n\nHari ini, saya diundang untuk mengikuti acara evaluasi rutin setiap kuartal, Evaluasi \nKinerja Bisnis (padanan dari _BRP_). Jujur, saya baru merasakan secara langsung rasanya \nikut serta dalam evaluasi tersebut.\n\nSaya kaget, bahwa evaluasi ini ternyata mempunyai manfaat yang baik. Segala arus kas, \nsumber daya, dan rencana di masa depan akan di ulas setiap tiga bulan sekali.\n\nTeman saya, —sebut saja si Mansure— dia selalu memberitahu rencana-rencana perubahan yang \nakan dia lakukan. Tapi, apakah dia menjalankan apa yang dia rencanakan? Mungkin dari 10 \nrencana, hanya 2 yang diwujudkan. Tentu contoh ini hanya membuat kita bunuh diri jika kita \nmenerapkan nya pada organisasi.\n\nAlih-alih melakukan evaluasi pada organisasi, mungkin saya akan mencoba evaluasi pada diri \nsaya pribadi. Satu hal yang penting, jangan sampai rencana saya, bahwa saya mau evaluasi diri \nsaya sendiri, hanya menjadi sebuah wacana saja. hahaha.\n\nSaya merasa, tulisan saya kali ini tidak terarah dengan baik. Yaa, tapi mau gimana lagi. \nDaripada saya tidak menulis apapun, artinya saya tidak melatih apapun.\n",
+    "code": "var Component=(()=>{var k=Object.create;var t=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var g=Object.getOwnPropertyNames;var y=Object.getPrototypeOf,h=Object.prototype.hasOwnProperty;var c=(n,a)=>()=>(a||n((a={exports:{}}).exports,a),a.exports),o=(n,a)=>{for(var e in a)t(n,e,{get:a[e],enumerable:!0})},u=(n,a,e,r)=>{if(a&&typeof a==\"object\"||typeof a==\"function\")for(let s of g(a))!h.call(n,s)&&s!==e&&t(n,s,{get:()=>a[s],enumerable:!(r=p(a,s))||r.enumerable});return n};var b=(n,a,e)=>(e=n!=null?k(y(n)):{},u(a||!n||!n.__esModule?t(e,\"default\",{value:n,enumerable:!0}):e,n)),j=n=>u(t({},\"__esModule\",{value:!0}),n);var m=c((M,l)=>{l.exports=_jsx_runtime});var _={};o(_,{default:()=>w,frontmatter:()=>v});var i=b(m()),v={title:\"Evaluasi Kinerja Bisnis\",publishedAt:\"2023-10-25\",summary:\"Evaluasi Kinerja Bisnis\",tags:[\"Blog\"]};function d(n){let a=Object.assign({p:\"p\",em:\"em\"},n.components);return(0,i.jsxs)(i.Fragment,{children:[(0,i.jsx)(a.p,{children:`Membuat saya disiplin untuk membuat tulisan dua kali seminggu, seperti nya agak sulit.\nSaya mungkin terlalu sering mengadopsi, bahwa inspirasi hanya datang ketika momen-momen\ntertentu. Padahal, sepertinya pekan lalu saya mendapatkan beberapa peluru untuk menulis.\nNamun hanya menjadi pikiran yang lewat dari telinga kanan ke telinga kiri.`}),`\n`,(0,i.jsxs)(a.p,{children:[`Hari ini, saya diundang untuk mengikuti acara evaluasi rutin setiap kuartal, Evaluasi\nKinerja Bisnis (padanan dari `,(0,i.jsx)(a.em,{children:\"BRP\"}),`). Jujur, saya baru merasakan secara langsung rasanya\nikut serta dalam evaluasi tersebut.`]}),`\n`,(0,i.jsx)(a.p,{children:`Saya kaget, bahwa evaluasi ini ternyata mempunyai manfaat yang baik. Segala arus kas,\nsumber daya, dan rencana di masa depan akan di ulas setiap tiga bulan sekali.`}),`\n`,(0,i.jsx)(a.p,{children:`Teman saya, \\u2014sebut saja si Mansure\\u2014 dia selalu memberitahu rencana-rencana perubahan yang\nakan dia lakukan. Tapi, apakah dia menjalankan apa yang dia rencanakan? Mungkin dari 10\nrencana, hanya 2 yang diwujudkan. Tentu contoh ini hanya membuat kita bunuh diri jika kita\nmenerapkan nya pada organisasi.`}),`\n`,(0,i.jsx)(a.p,{children:`Alih-alih melakukan evaluasi pada organisasi, mungkin saya akan mencoba evaluasi pada diri\nsaya pribadi. Satu hal yang penting, jangan sampai rencana saya, bahwa saya mau evaluasi diri\nsaya sendiri, hanya menjadi sebuah wacana saja. hahaha.`}),`\n`,(0,i.jsx)(a.p,{children:`Saya merasa, tulisan saya kali ini tidak terarah dengan baik. Yaa, tapi mau gimana lagi.\nDaripada saya tidak menulis apapun, artinya saya tidak melatih apapun.`})]})}function x(n={}){let{wrapper:a}=n.components||{};return a?(0,i.jsx)(a,Object.assign({},n,{children:(0,i.jsx)(d,n)})):d(n)}var w=x;return j(_);})();\n;return Component;"
+  },
+  "_id": "blog/evaluasi-kinerja-bisnis.mdx",
+  "_raw": {
+    "sourceFilePath": "blog/evaluasi-kinerja-bisnis.mdx",
+    "sourceFileName": "evaluasi-kinerja-bisnis.mdx",
+    "sourceFileDir": "blog",
+    "contentType": "mdx",
+    "flattenedPath": "blog/evaluasi-kinerja-bisnis"
+  },
+  "type": "Post",
+  "slug": "evaluasi-kinerja-bisnis",
+  "image": "/blog/evaluasi-kinerja-bisnis/image.png",
+  "og": "/blog/evaluasi-kinerja-bisnis/og.jpg"
+}

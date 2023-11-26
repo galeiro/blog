@@ -4,7 +4,7 @@
         <description><![CDATA[Blog]]></description>
         <link>https://blog.musex.my.id</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Oct 2023 04:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Nov 2023 06:24:44 GMT</lastBuildDate>
         <atom:link href="https://blog.musex.my.id/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ketertarikan dalam menulis]]></title>
@@ -12,6 +12,41 @@
             <link>https://blog.musex.my.id/blog/ketertarikan-menulis</link>
             <guid isPermaLink="true">https://blog.musex.my.id/blog/ketertarikan-menulis</guid>
             <pubDate>Mon, 09 Oct 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Evaluasi Kinerja Bisnis]]></title>
+            <description><![CDATA[Evaluasi Kinerja Bisnis]]></description>
+            <link>https://blog.musex.my.id/blog/evaluasi-kinerja-bisnis</link>
+            <guid isPermaLink="true">https://blog.musex.my.id/blog/evaluasi-kinerja-bisnis</guid>
+            <pubDate>Wed, 25 Oct 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kosong]]></title>
+            <description><![CDATA[Kosong]]></description>
+            <link>https://blog.musex.my.id/blog/kosong</link>
+            <guid isPermaLink="true">https://blog.musex.my.id/blog/kosong</guid>
+            <pubDate>Thu, 02 Nov 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mr. Robot]]></title>
+            <description><![CDATA[Tayangan sinema mr. robot]]></description>
+            <link>https://blog.musex.my.id/blog/mr-robot</link>
+            <guid isPermaLink="true">https://blog.musex.my.id/blog/mr-robot</guid>
+            <pubDate>Thu, 12 Oct 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Peristiwa genosida]]></title>
+            <description><![CDATA[Peristiwa genosida]]></description>
+            <link>https://blog.musex.my.id/blog/peristiwa-genosida</link>
+            <guid isPermaLink="true">https://blog.musex.my.id/blog/peristiwa-genosida</guid>
+            <pubDate>Wed, 08 Nov 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Warung kopi]]></title>
+            <description><![CDATA[Warung kopi]]></description>
+            <link>https://blog.musex.my.id/blog/warung-kopi</link>
+            <guid isPermaLink="true">https://blog.musex.my.id/blog/warung-kopi</guid>
+            <pubDate>Fri, 27 Oct 2023 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
